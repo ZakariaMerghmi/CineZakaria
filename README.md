@@ -12,7 +12,7 @@ Designed with clean architecture, routing, and state management — this project
 ![Home Screenshot](https://github.com/user-attachments/assets/d0592080-e65a-441c-b154-08be78a2c48d)
 
 ### 🔍 Movie Details Page  
-![Details Screenshot](./screenshots/details.png)
+![Details Screenshot](https://github.com/user-attachments/assets/d75d9abd-7b8c-4359-b2fe-295ffc1a2ac2)
 
 ### 🔐 Authentication (Google login)  
 ![Auth Screenshot](https://github.com/user-attachments/assets/e82ba51a-09c0-40cd-a065-4bb758a385ab)
