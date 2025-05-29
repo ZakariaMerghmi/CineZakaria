@@ -15,7 +15,7 @@ Designed with clean architecture, routing, and state management — this project
 ![Details Screenshot](./screenshots/details.png)
 
 ### 🔐 Authentication (Google login)  
-![Auth Screenshot](https://github.com/user-attachments/assets/d0592080-e65a-441c-b154-08be78a2c48d)
+![Auth Screenshot]()
 
 ### 🔐 Authentication (Google Sign-in)  
 ![Auth Screenshot](./screenshots/auth.png)
