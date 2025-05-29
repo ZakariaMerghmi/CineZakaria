@@ -14,9 +14,17 @@ Designed with clean architecture, routing, and state management — this project
 ### 🔍 Movie Details Page  
 ![Details Screenshot](./screenshots/details.png)
 
+### 🔐 Authentication (Google login)  
+![Auth Screenshot](./screenshots/auth.png)
+
 ### 🔐 Authentication (Google Sign-in)  
 ![Auth Screenshot](./screenshots/auth.png)
 
+### 🔐 upcoming ( 
+![Opcoming Screenshot](./screenshots/auth.png)
+
+### 🔐 footer 
+![footer Screenshot](./screenshots/auth.png)
 ---
 
 ## 💡 Highlights
