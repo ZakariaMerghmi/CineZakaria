@@ -71,4 +71,40 @@ CineZakaria was developed to:
 
 ## 🗂️ Folder Structure
 
+/src
+├── components/ # Reusable UI components (Navbar, Cards, Buttons)
+├── pages/ # Page components (Home, Details, Login)
+├── api/ # API functions to TMDB
+├── firebase/ # Firebase config and auth logic
+├── assets/ # Images and icons
+├── App.js # App entry with routes
+└── index.js # React entry point
+
+
+---
+
+## 🧪 Getting Started
+
+```bash
+git clone https://github.com/ZakariaMerghmi/CineZakaria.git
+cd CineZakaria
+npm install
+npm start
+---
+
+## 📄 License
+
+This project is **not open for reuse or redistribution**.
+
+All source code, design, and content are © Zakaria Merghmi.  
+You are **not allowed** to copy, modify, or distribute this project in any form without **written permission** from the author.
+
+---
+
+## 👤 Author
+
+Developed and maintained by **Zakaria Merghmi**  
+📧 zakariaprogrammieren@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/zakaria-merghmi-77877a312)  
+🔗 [GitHub](https://github.com/ZakariaMerghmi)
 
