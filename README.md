@@ -1,6 +1,8 @@
-# 🎬 CineZakaria – Movie Explorer App
+# 🎬 CineZakaria – Advanced React Movie App with Firebase
 
-**CineZakaria** is a dynamic and responsive movie web app built using **React** and styled with **TailwindCSS**. It allows users to browse popular movies, view detailed information, and explore film content through TheMovieDB API.
+**CineZakaria** is a full-featured movie browsing platform built with **React**, powered by **Firebase Authentication** and styled using **TailwindCSS**. The app fetches real-time movie data from **TMDB API**, allows users to log in, explore popular films, and save their favorites using `localStorage`.
+
+Designed with clean architecture, routing, and state management — this project simulates a real production-level front-end experience.
 
 ---
 
@@ -9,40 +11,64 @@
 ### 🏠 Home Page  
 ![Home Screenshot](./screenshots/home.png)
 
-### 🎥 Movie Details  
+### 🔍 Movie Details Page  
 ![Details Screenshot](./screenshots/details.png)
+
+### 🔐 Authentication (Google Sign-in)  
+![Auth Screenshot](./screenshots/auth.png)
 
 ---
 
 ## 💡 Highlights
 
-🎬 Browse movies from TMDB API &nbsp;&nbsp; • &nbsp;&nbsp; 📄 Movie Details Pages with Routing &nbsp;&nbsp; • &nbsp;&nbsp; 🔍 Search Functionality (optional) &nbsp;&nbsp; • &nbsp;&nbsp; 🎨 TailwindCSS responsive UI &nbsp;&nbsp; • &nbsp;&nbsp; ⚛️ Clean React structure
+🔐 Google Firebase Authentication  
+🎬 Live movie data from TMDB API  
+⭐ Favorite system using localStorage  
+📄 Dynamic Routing with `React Router DOM`  
+⚛️ State management with Hooks and Props  
+🎨 TailwindCSS fully responsive UI  
+📁 Modular, clean code architecture
 
 ---
 
 ## 🎯 Purpose
 
-The purpose of this project is to:
+CineZakaria was developed to:
 
-- Practice **API integration** using TheMovieDB  
-- Learn to use **React Router DOM** for dynamic routing  
-- Build a responsive and clean movie UI using TailwindCSS  
-- Manage state using **Hooks** and component props  
-- Simulate a professional front-end development workflow
+- Build a **complete front-end app** from scratch  
+- Practice **secure login systems** with Firebase  
+- Integrate **external APIs** with dynamic routing  
+- Manage favorite movies with **localStorage**  
+- Design and deploy an app using modern web technologies  
+- Prepare for real-world **front-end developer jobs**
 
 ---
 
 ## 📦 Tech Stack
 
-| Layer        | Technology                 |
-|--------------|----------------------------|
-| Frontend     | React                      |
-| API          | TheMovieDB (TMDB) API      |
-| Styling      | TailwindCSS                |
-| Routing      | React Router               |
-| Deployment   | (Add Vercel/Netlify link)  |
+| Layer        | Technology                        |
+|--------------|------------------------------------|
+| Frontend     | React (Hooks + Functional)         |
+| Auth         | Firebase Authentication (Google)   |
+| API          | TheMovieDB API                     |
+| State Mgmt   | useState + localStorage            |
+| Routing      | React Router DOM                   |
+| Styling      | TailwindCSS                        |
+| Deployment   | Vercel (or Firebase Hosting)       |
+
+---
+
+## 🧠 What I Learned
+
+- Secure Google sign-in using Firebase  
+- API fetching, loading states, and error handling  
+- Routing with URL parameters (`/movie/:id`)  
+- Saving and retrieving favorites from localStorage  
+- Component-based structure and clean React patterns  
+- Responsive UI/UX using Tailwind's utility-first approach
 
 ---
 
 ## 🗂️ Folder Structure
+
 
