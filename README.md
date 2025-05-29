@@ -28,11 +28,14 @@ Designed with clean architecture, routing, and state management — this project
 
 ---
 
+---
+
 ## 💡 Highlights
 
 🔐 Google Firebase Authentication  
 🎬 Live movie data from TMDB API  
-⭐ Favorite system using localStorage  
+🔎 Filter movies by genre and type based on user selection  
+⭐ Protected Favorites system (requires login)  
 📄 Dynamic Routing with `React Router DOM`  
 ⚛️ State management with Hooks and Props  
 🎨 TailwindCSS fully responsive UI  
@@ -47,11 +50,10 @@ CineZakaria was developed to:
 - Build a **complete front-end app** from scratch  
 - Practice **secure login systems** with Firebase  
 - Integrate **external APIs** with dynamic routing  
-- Manage favorite movies with **localStorage**  
+- Allow users to **filter movies** by genre/type in real-time  
+- Enable a **favorites system** accessible only when logged in, for **data protection**
 - Design and deploy an app using modern web technologies  
 - Prepare for real-world **front-end developer jobs**
-
----
 
 ## 📦 Tech Stack
 
