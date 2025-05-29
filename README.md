@@ -1,37 +1,34 @@
-# 🚀 Advanced React Quotes App with LocalStorage
+# 🎬 CineZakaria – Movie Explorer App
 
-A real-world web application built with **React**, designed for authenticated users to browse curated quotes and save their favorites in real-time — all stored locally using **localStorage** for a fast and simple experience. Built with production-grade React structure and modern UI practices.
+**CineZakaria** is a dynamic and responsive movie web app built using **React** and styled with **TailwindCSS**. It allows users to browse popular movies, view detailed information, and explore film content through TheMovieDB API.
 
 ---
 
 ## 📸 Screenshots
 
-### 🔐 Authentication  
-![Login Screenshot](./screenshots/login.png)
+### 🏠 Home Page  
+![Home Screenshot](./screenshots/home.png)
 
-### 🧠 Browse Quotes  
-![Quotes Screenshot](./screenshots/quotes.png)
-
-### ⭐ Favorites System (localStorage)  
-![Favorites Screenshot](./screenshots/favorites.png)
+### 🎥 Movie Details  
+![Details Screenshot](./screenshots/details.png)
 
 ---
 
 ## 💡 Highlights
 
-🔐 Google Sign-in (Firebase Auth) &nbsp;&nbsp; • &nbsp;&nbsp; 🧠 Browse curated quotes &nbsp;&nbsp; • &nbsp;&nbsp; ⭐ Favorite quotes stored in `localStorage` &nbsp;&nbsp; • &nbsp;&nbsp; ⚛️ Context API for global state &nbsp;&nbsp; • &nbsp;&nbsp; 🎨 Responsive UI with TailwindCSS
+🎬 Browse movies from TMDB API &nbsp;&nbsp; • &nbsp;&nbsp; 📄 Movie Details Pages with Routing &nbsp;&nbsp; • &nbsp;&nbsp; 🔍 Search Functionality (optional) &nbsp;&nbsp; • &nbsp;&nbsp; 🎨 TailwindCSS responsive UI &nbsp;&nbsp; • &nbsp;&nbsp; ⚛️ Clean React structure
 
 ---
 
 ## 🎯 Purpose
 
-This project simulates a real-world experience where users can:
+The purpose of this project is to:
 
-- Sign in securely using **Google Authentication**  
-- Browse a curated list of motivational quotes  
-- Add or remove favorite quotes using **localStorage**  
-- Experience a fast, responsive UI using **TailwindCSS**  
-- Enjoy structured, modular React architecture
+- Practice **API integration** using TheMovieDB  
+- Learn to use **React Router DOM** for dynamic routing  
+- Build a responsive and clean movie UI using TailwindCSS  
+- Manage state using **Hooks** and component props  
+- Simulate a professional front-end development workflow
 
 ---
 
@@ -39,22 +36,11 @@ This project simulates a real-world experience where users can:
 
 | Layer        | Technology                 |
 |--------------|----------------------------|
-| Frontend     | React (Hooks, Context API) |
-| Auth         | Firebase Authentication    |
-| State Mgmt   | Context API + Local State  |
-| Storage      | localStorage (browser)     |
-| UI Framework | TailwindCSS                |
-
----
-
-## 🧠 What I Learned
-
-- Google Firebase Authentication  
-- Managing sessions and protecting routes  
-- Using React Context API for global state  
-- Storing and retrieving data from **localStorage**  
-- Responsive design with utility-first CSS (Tailwind)  
-- Clean code organization and best React practices
+| Frontend     | React                      |
+| API          | TheMovieDB (TMDB) API      |
+| Styling      | TailwindCSS                |
+| Routing      | React Router               |
+| Deployment   | (Add Vercel/Netlify link)  |
 
 ---
 
