@@ -91,14 +91,14 @@ cd CineZakaria
 npm install
 npm start
 ---
-
+```
 ## 📄 License
 
 This project is **not open for reuse or redistribution**.
 
 All source code, design, and content are © Zakaria Merghmi.  
 You are **not allowed** to copy, modify, or distribute this project in any form without **written permission** from the author.
-```
+
 ---
 
 ## 👤 Author
