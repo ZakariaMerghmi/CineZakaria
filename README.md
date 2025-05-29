@@ -1,47 +1,62 @@
-## 🚀 Overview
+# 🚀 Advanced React Quotes App with LocalStorage
 
-An advanced quotes management app using **React**, **Firebase Auth**, and **Firestore**, built to simulate a real-world, full-featured web app with real-time data and authentication.
+A real-world web application built with **React**, designed for authenticated users to browse curated quotes and save their favorites in real-time — all stored locally using **localStorage** for a fast and simple experience. Built with production-grade React structure and modern UI practices.
 
 ---
 
-## 🎯 Purpose
+## 📸 Screenshots
 
-This project was built to:
+### 🔐 Authentication  
+![Login Screenshot](./screenshots/login.png)
 
-- Practice **Firebase Google Auth** & user session handling  
-- Implement **real-time database** interaction with Firestore  
-- Structure the project using **modular React patterns**  
-- Apply a **responsive UI** using TailwindCSS  
-- Handle **state management** with Context API
+### 🧠 Browse Quotes  
+![Quotes Screenshot](./screenshots/quotes.png)
+
+### ⭐ Favorites System (localStorage)  
+![Favorites Screenshot](./screenshots/favorites.png)
 
 ---
 
 ## 💡 Highlights
 
-🔐 Google Sign-in &nbsp;&nbsp; • &nbsp;&nbsp; 🧠 View curated quotes &nbsp;&nbsp; • &nbsp;&nbsp; ⭐ Favorite saving in real-time &nbsp;&nbsp; • &nbsp;&nbsp; ⚙️ Firebase Firestore integration &nbsp;&nbsp; • &nbsp;&nbsp; 🎨 Responsive Tailwind design
+🔐 Google Sign-in (Firebase Auth) &nbsp;&nbsp; • &nbsp;&nbsp; 🧠 Browse curated quotes &nbsp;&nbsp; • &nbsp;&nbsp; ⭐ Favorite quotes stored in `localStorage` &nbsp;&nbsp; • &nbsp;&nbsp; ⚛️ Context API for global state &nbsp;&nbsp; • &nbsp;&nbsp; 🎨 Responsive UI with TailwindCSS
+
+---
+
+## 🎯 Purpose
+
+This project simulates a real-world experience where users can:
+
+- Sign in securely using **Google Authentication**  
+- Browse a curated list of motivational quotes  
+- Add or remove favorite quotes using **localStorage**  
+- Experience a fast, responsive UI using **TailwindCSS**  
+- Enjoy structured, modular React architecture
+
+---
+
+## 📦 Tech Stack
+
+| Layer        | Technology                 |
+|--------------|----------------------------|
+| Frontend     | React (Hooks, Context API) |
+| Auth         | Firebase Authentication    |
+| State Mgmt   | Context API + Local State  |
+| Storage      | localStorage (browser)     |
+| UI Framework | TailwindCSS                |
 
 ---
 
 ## 🧠 What I Learned
 
-- Setting up Firebase Auth and Firestore  
-- Handling login/logout flows  
-- Protecting routes with user context  
-- Reading/writing data from Firestore in real-time  
-- Building responsive UI using TailwindCSS  
-- Structuring scalable, clean React projects
+- Google Firebase Authentication  
+- Managing sessions and protecting routes  
+- Using React Context API for global state  
+- Storing and retrieving data from **localStorage**  
+- Responsive design with utility-first CSS (Tailwind)  
+- Clean code organization and best React practices
 
 ---
 
-## 🔮 Next Improvements
+## 🗂️ Folder Structure
 
-- Add dark mode  
-- Allow users to add their own quotes  
-- Add animations with Framer Motion  
-- Full-text search
-
----
-
-## ✅ Ready for Production
-
-This app is structured and built using **best practices**, and simulates how real-world React + Firebase applications are developed and deployed.
