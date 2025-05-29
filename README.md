@@ -21,10 +21,10 @@ Designed with clean architecture, routing, and state management — this project
 ![Auth Screenshot](https://github.com/user-attachments/assets/4fa808fb-cc9b-4a57-84e4-0ffd1ef3615c)
 
 ### 🔐 upcoming ( 
-![Opcoming Screenshot]([./screenshots/auth.png](https://github.com/user-attachments/assets/9d6af704-3174-471f-8690-3f4e506ba6cc))
+![Opcoming Screenshot]((https://github.com/user-attachments/assets/9d6af704-3174-471f-8690-3f4e506ba6cc))
 
 ### 🔐 footer 
-![footer Screenshot](./screenshots/auth.png)
+![footer Screenshot]((https://github.com/user-attachments/assets/b1dafa63-c564-4efb-b924-2a3e3e4d7693))
 ---
 
 ## 💡 Highlights
