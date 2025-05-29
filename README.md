@@ -9,7 +9,7 @@ Designed with clean architecture, routing, and state management — this project
 ## 📸 Screenshots
 
 ### 🏠 Home Page  
-![Home Screenshot](![Image](https://github.com/user-attachments/assets/d0592080-e65a-441c-b154-08be78a2c48d))
+![Home Screenshot](https://github.com/user-attachments/assets/d0592080-e65a-441c-b154-08be78a2c48d)
 
 ### 🔍 Movie Details Page  
 ![Details Screenshot](./screenshots/details.png)
