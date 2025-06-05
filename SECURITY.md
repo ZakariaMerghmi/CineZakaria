@@ -15,7 +15,7 @@ Since this project is **not open-source**, external contributions or vulnerabili
 
 However, if you've discovered a critical issue and would like to report it for ethical purposes, you may contact the author directly:
 
-- 📧 **Email**: zakaria.merghmi.dev@gmail.com  
+- 📧 **Email**: zakariaprogrammieren@gmail.com  
 - 📅 **Response Time**: Typically within 5–7 business days (if applicable)
 
 ---
